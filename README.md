@@ -17,6 +17,7 @@
 
 - 📱 **[VettingAgent (coming soon)](https://vettingagent111.com/)** – Never answer an unknown number again: AI phone agent for real estate brokers.
 - 📣 **[SocialDepartment](https://socialdept.ai.com/openclaw/openclaw)** - Accelerated social content for entertainment marketing: AI-assisted social content generation for media companies
+- 🌈 **[MCU MCP Server](https://github.com/aarnadlr/mcu-mcp-server)** - MCPServer which uses Google's Material Color Utilities library to generate a core palette color scheme based on a provided seed color
 - 🎧 **[Daydrm Studio](https://studio.daydrm.ai)** - Human-led, AI-assisted film and software experiences
 - 🚀 **[Daydrm](https://daydrm.ai)** - AI tools for creative, strategy & production
 - 🎉 **[Supercard](https://supercardco.com/)** - The easiest way to send the best birthday cards
