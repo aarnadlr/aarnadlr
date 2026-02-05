@@ -40,6 +40,9 @@
 - [How X's "For You" Feed Algorithm Works](https://x.com/aaronadler/status/2013698657942466608)
 <!-- BLOG-POST-LIST:END -->
 
+### Philosophy
+> "Productivity is for robots. Humans are for meaning." - Kevin Kelly
+
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aaronadler)
