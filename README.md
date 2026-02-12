@@ -17,7 +17,26 @@
 > I'm a Full Stack / Front End / AI / Design Engineer in New York City. My focus is on TypeScript, React, Svelte, CSS, NextJS, NodeJS, UI animation, and AI applications. 
 
 
-## Projects
+## Work
+
+**Google** - _March 2025 to Present_ - Software Engineer (contract)
+  - Design Intelligence team: Improving and measuring Gemini's understanding of UI/UX design
+    - Developed an LLM tool to provide Gemini access to Google's Material Color Utility library, which Gemini calls to perform color-related calculations.
+    - Contributed to the Material Design "GenUX Toolkit", enabling Google's products and coding tools to generate consistent, high-quality Material Design UIs.
+    - Performed research on optimizing Gemini Canvas' agentic coding system to generate app code.
+    - Gemini Evals: Measurement of Gemini's ability to generate app code with high-quality, well-designed interfaces.
+    - Developed two custom Angular apps for design evals. Integrated with CrowdCompute, Google's internal platform for evaluating LLM models.
+
+**NBC Peacock** - _September 2024 to February 2025_ - Software Engineer (contract)
+  - Developed an AI application to efficiently access, organize and manage Peacock proprietary enterprise data
+    - Created user-friendly data-driven templates using NextJS, TypeScript, and CSS for easy data access
+    - Implemented innovative solutions to streamline data queries and enhance user experience.
+    - Stack: TypeScript, NextJS, React, OpenAI, Vercel AI SDK, NodeJS
+
+  
+  
+
+## Independent Software Projects
 
 - 📱 **[VettingAgent (coming soon)](https://vettingagent111.com/)** – Never answer an unknown number again: AI phone agent for real estate brokers.
 - 📣 **[SocialDepartment](https://socialdept.ai.com/openclaw/openclaw)** - Accelerated social content for entertainment marketing: AI-assisted social content generation for media companies
