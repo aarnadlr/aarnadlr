@@ -46,10 +46,10 @@
 - 🎉 **[Supercard](https://supercardco.com/)** - The easiest way to send the best birthday cards
 
 
-## GitHub Activity
+<!-- ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/aarnadlr)
-
+-->
 
 ## Blog Posts
 
